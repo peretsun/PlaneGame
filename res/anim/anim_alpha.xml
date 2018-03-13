@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 动画效果2秒时间透明度从1变到0,再从0变为1 -->
+    <alpha
+        android:fromAlpha="1.0"
+        android:toAlpha="0"
+        android:fillAfter="true"
+        android:repeatMode="reverse"
+        android:repeatCount="1"
+        android:duration="4000"
+        />
+    
+
+</set>

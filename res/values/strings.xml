@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello!</string>
+    <string name="app_name">飞行大战</string>
+	<string name="reminder">确定购买该飞机？</string>
+	<string name="ok">确定</string>
+	<string name="clear">取消</string>
+	<string name="action_settings">setting</string>
+	
+	<string name="text_wellcome">请输入昵称。</string>
+</resources>
